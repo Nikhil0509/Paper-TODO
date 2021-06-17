@@ -1,6 +1,13 @@
 # Paper-TODO
 
-The classic Todos Tracker as a Progressive Web App. Built using React, Redux, leveraging styled-components, PaperCSS.
+Paper-TODO is a simple web application to save Your daily tasks in order not to miss anything.
+
+# Technologies Used
+
+* React JS
+* React-redux
+* Paper-CSS
+
 
 # Development
 
